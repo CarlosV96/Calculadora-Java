@@ -1,2 +1,2 @@
-# tallerFinalJava
-Aquí se encuentra el taller final de Java Cantera nivel 1
+# Calculadora-Java.
+Se realiza calculadora sencilla con Java, funcionando desde consola.
